@@ -1,7 +1,0 @@
-include ':tuibeauty'
-include ':tuibarrage'
-include ':tuiaudioeffect'
-include ':tuigift'
-include ':app'
-include ':tuiliveroom'
-include ':debug'
